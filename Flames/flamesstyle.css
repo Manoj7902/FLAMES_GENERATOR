@@ -1,0 +1,41 @@
+.block{
+    border: 3px solid rgb(43, 16, 196);
+    width: 400px;
+    height: 400px;
+    margin: 50px auto;
+    background-color:pink;
+    border-radius: 20px;   
+    padding: 20px;
+}
+h2{
+    text-align: center;
+    color: rgb(69, 16, 121);
+    text-shadow: 1px 1px 0px yellow;
+}
+.block label{
+    font-size: 20px;
+    color:black;
+}
+.block input{
+    width: 100%;
+    border: 1px solid black;
+    border-radius: 8px;
+    font-size: 20px;
+    padding:10px;
+    margin: 10px 0px 15px 0px;
+    box-sizing: border-box;
+    
+}
+button {
+    background-color: rgb(83, 144, 83);
+    font-size: 21px;
+    margin:15px 60px 10px 50px;
+    border-radius: 8px;
+}
+#result
+{
+    margin-top: 15px;
+    font-size: 40px;
+    text-align: center;
+}
+
